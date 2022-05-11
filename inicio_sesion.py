@@ -18,4 +18,3 @@ driver.find_element_by_name("customer[password]").send_keys(password)
 driver.find_element_by_css_selector("input[type=\"submit\" i]").click()
 
 driver.close()
-
