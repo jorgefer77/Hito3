@@ -12,4 +12,4 @@ Se adjunta lo avanzado en el hito 3 en donde se encuentran los siguientes script
 4.Restablecer contraseña
 
 
-En cada uno de ellos se utilizo selenium junto con chromedriver.
+En cada uno de ellos se utilizo selenium junto con webdriver.
