@@ -21,3 +21,6 @@ Se adjunta lo avanzado en el hito 4 tambien donde se encuentran los siguientes s
 1.Fuerza bruta
 
 2.Contraseñas (tamaño minimo y maximo) y bases utilizadas
+
+
+Jorge Fernández Salgado.
